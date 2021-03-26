@@ -1,9 +1,10 @@
 {
     "name": "Jenkins CD release Workflow",
-    "description": "CD for Jenkins plugins and components.",
+    "description": "CD for Jenkins plugins and components. For additional setup see jenkinsci/incremental-tools",
     "iconName": "jenkins",
     "categories": [
-        "Java"
+        "Deployment",
+        "Maven"
     ],
     "filePatterns": [
         "pom.xml$"
