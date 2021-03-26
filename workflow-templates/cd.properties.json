@@ -1,5 +1,5 @@
 {
-    "name": "Jenkins CD release",
+    "name": "Automatically deploy a Jenkins plugin",
     "description": "Continuous delivery for Jenkins plugins and components. For additional setup see jenkinsci/incremental-tools",
     "iconName": "jenkins",
     "categories": [
