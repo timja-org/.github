@@ -1,5 +1,5 @@
 {
-    "name": "Jenkins CD release Workflow",
+    "name": "Jenkins CD release",
     "description": "Continuous delivery for Jenkins plugins and components. For additional setup see jenkinsci/incremental-tools",
     "iconName": "jenkins",
     "categories": [
