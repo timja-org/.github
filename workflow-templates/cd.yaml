@@ -1,3 +1,5 @@
+# Note: additional setup is required, see https://github.com/jenkinsci/incrementals-tools#automatic-deployment
+
 name: cd
 on:
   workflow_dispatch:
