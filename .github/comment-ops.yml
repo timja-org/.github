@@ -1,0 +1,3 @@
+commands:
+  label:
+    enabled: false
