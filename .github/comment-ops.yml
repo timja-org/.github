@@ -1,3 +1,13 @@
 commands:
+  close:
+    enabled: true
   label:
-    enabled: false
+    enabled: true
+  removeLabel:
+    enabled: true
+  reopen:
+    enabled: true
+  reviewer:
+    enabled: true
+  transfer:
+    enabled: true
